@@ -1,6 +1,6 @@
 # hth
 
-# 📜 Day 11: Deployments
+# 📜 Lab 12: Deployments
 
 ### ⏱ Agenda
 
